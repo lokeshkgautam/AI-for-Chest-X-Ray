@@ -17,7 +17,7 @@ Now I will introduce how to build an image classifier for detecting viral pneumo
 #### A. Why needs Detect Viral Pneumonia, Bacterial Pneumonia With AI?
 The world has changed due to the COVID-19 pandemic in 2020. Medical staff around the world have shown bravery and resilience in the fight against COVID-19, and some even sacrificed their lives while performing their duties. As an ordinary person, as a programmer, I also want to help. Therefore, using AI to try to help diagnose lung diseases, such as viral pneumonia, bacterial pneumonia.
 #### B. Azure Cognitive Servies
-Azure is a cloud computing platform, it also provides AI services for developers.<h3><a href="https://azure.microsoft.com/en-us/products/cognitive-services/#tabx7928def8ee824ea9b21a2d63388906f4">Azure Cognitive services</a></h3> is a comprehensive family of AI services and cognitive APIs to help you build intelligent apps.
+Azure is a cloud computing platform, it also provides AI services for developers. #### <h3><a href="https://azure.microsoft.com/en-us/products/cognitive-services/#tabx7928def8ee824ea9b21a2d63388906f4">Azure Cognitive services</a></h3> is a comprehensive family of AI services and cognitive APIs to help you build intelligent apps.
 
 ### Primary Azure Technology :
 Azure Cognitive Services, Custom Vision
