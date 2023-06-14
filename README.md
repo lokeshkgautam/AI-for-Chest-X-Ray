@@ -1,4 +1,4 @@
-# <a href=>AI for Chest X-Ray</a>
+# AI for Chest X-Ray
 
 This is a Machine Learning Model to diagnosis Chest X-Ray
 
