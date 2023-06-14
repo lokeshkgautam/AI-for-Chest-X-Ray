@@ -14,7 +14,7 @@ Azure AI for Medical Imaging
 ### Project Description :
 The content cover Azure Machine learning, Azure Cognitive service and custom vision. Cognitive service provide the machine learning capabilities. You don’t need special machine learning or data science knowledge to use these services. And I’ll share you how to implement an image classifier for chest X-ray diagnosis with Azure AI. Azure Machine learning is very helpful for Data Science application.
 Now I will introduce how to build an image classifier for detecting viral pneumonia, bacterial pneumonia with Azure AI.
-## Why needs Detect Viral Pneumonia, Bacterial Pneumonia With AI?
+#### Why needs Detect Viral Pneumonia, Bacterial Pneumonia With AI?
 
 ### Primary Azure Technology :
 Azure Cognitive Services, Custom Vision
