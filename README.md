@@ -21,5 +21,4 @@ Azure is a cloud computing platform, it also provides AI services for developers
 
 ### Primary Azure Technology :
 Azure Cognitive Services, Custom Vision
-
-<a href="https://futurereadytalent.in/"><p align= "center"><img src="https://github.com/lokeshkgautam/AI-for-Chest-X-Ray/blob/5ae1e52f4f4236d8ca92ea9189794835ce087467/FRT.jpeg" width="700" height= "350"></p></a> 
+ 
