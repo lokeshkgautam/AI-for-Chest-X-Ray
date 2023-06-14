@@ -19,6 +19,11 @@ The world has changed due to the COVID-19 pandemic in 2020. Medical staff around
 #### B. Azure Cognitive Servies
 Azure is a cloud computing platform, it also provides AI services for developers. <a class="af nh" href="https://azure.microsoft.com/services/cognitive-services/" rel="noopener ugc nofollow" target="_blank">Azure Cognitive Services</a> is a comprehensive family of AI services and cognitive APIs to help you build intelligent apps.
 
+<img alt="" class="bg ly lz c" width="700" height="313" loading="lazy" role="presentation" src="https://miro.medium.com/v2/resize:fit:700/0*bdKI4gBlw3pM3UQh.png">
+Azure Cognitive Services contains many different types of AI services, such as Decision services, Language services, Speech services, Vision services, and Web search services.
+
+What we need is an AI Vision service. By using Custom Vision services, we can identify and analyze attributes within images, videos, and digital ink. In order to train our own model, we can select the Custom Vision service of Vision services to customize image recognition to fit our needs.
+
 ### Primary Azure Technology :
 Azure Cognitive Services, Custom Vision
  
