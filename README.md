@@ -31,6 +31,8 @@ What we need is an AI Vision service. By using Custom Vision services, we can id
 
 ### Create A Custom Vision Project and Get The Dataset :
 The Custom Vision service provided by Azure provides us a user-friendly interface to develop and deploy custom computer vision models. In the following image, You can find the process of creating custom computer vision models that fit with our use case.
+
+<img alt="" class="bg ly lz c" width="1200" height="613" loading="lazy" role="presentation" src="https://github.com/lokeshkgautam/AI-for-Chest-X-Ray/blob/master/Project%20create.png">
 <img alt="" class="bg ly lz c" width="700" height="222" loading="lazy" role="presentation" src="https://miro.medium.com/v2/resize:fit:700/0*NYAjgfsFSRbqXYwq.png">
 
 So, let’s create our Custom Vision Project and get a suitable dataset online.
@@ -80,8 +82,6 @@ In the images below the percentage of the Viral X-Ray is higher as per the quick
 In the images below the percentage of the Bacteria type X-Ray is higher as per the quick test.
 <img alt="" class="bg ly lz c" width="1200" height="613" loading="lazy" role="presentation" src="https://github.com/lokeshkgautam/AI-for-Chest-X-Ray/blob/master/Test%20the%20model%20Bacteria%20Pnemonia.png">
 
-##### Image Model URL :
-<img alt="" class="bg ly lz c" width="1200" height="613" loading="lazy" role="presentation" src="https://github.com/lokeshkgautam/AI-for-Chest-X-Ray/blob/master/How%20to%20find%20the%20image%20URL.png">
 
 ### Primary Azure Technology :
 Azure Cognitive Services, Custom Vision
